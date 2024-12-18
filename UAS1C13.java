@@ -1,3 +1,7 @@
+// Nama: Muhammad Aklilul Hikam
+// NIM: 244107060059
+// Kelas: SIB 1C
+// Absen: 13
 import java.util.Scanner;
 
 public class UAS1C13 {
